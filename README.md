@@ -166,9 +166,9 @@ The site looked perfect and responsive :
 This project would not have been possible without the following:
 
 * The text in content page is copied from https://www.wikipedia.org/
-
 * The photos used in this site were obtained from https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjJy6KX_-3nAhUIqYsKHaxzBsQQPAgH
 * icons were sourced from https://fontawesome.com/
+* For my Mentor who guided me in building this website.
 
 ## Inspiration
 
