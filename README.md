@@ -25,7 +25,7 @@ A live demo of the site can be found hosted on Github pages by following this li
 ## Project Description
 This project is a three page HTML project where we can learn about little history of  three popular toys --**HelloKitty**, **Lego**, **Barbie**. The main page **Index page** welcome's you with colourful navigation , animated image , history of toys and a footer.
 The second page **shop page** has products where you can choose ,add to shopping cart and buy them which is Responsive and animated .
-The third page **contact page**  users can contact through their Name,E-mail,Phonenumber and also can leave their feedback and message!
+The third page **contact page**  users can contact through their Name,E-mail,Phonenumber and also can leave their feedback !
 
 * Responsive Navigation Bar: this provides navigation around the site.
 * About Section: this is expected to grab the users attention with history of TOYS.
@@ -58,9 +58,9 @@ This project has a few interesting features that I feel need special mention.
 * Responsive Navigation Bar: The navigation bar changes to a dropdown menu in smaller screens.
 * Images:  The  images on all pages changes it's position when user move cursor.
 * Responsive product cards: The product cards in  shop page  are designed to draw attention of users with eye catching backgrounds and animation when they move cursor on product cards.
-* Contact Form : The form takes users input  and can take users feedback and message .
-* Footer :  Users can enter E mail for news letters and has a logo with social links.
-* Social Links: The social media icons have a hover effect and also when clicked they open up in a new browser window while keeping my page open. This allows the user to easily get back to my page once the icons are clicked.
+* Contact Form : The form takes users input  and can take users  message .
+* Footer :  Users can enter E mail for news letters and has social links.
+* Social Links: The social media icons when clicked they open up in a new browser window while keeping my page open. This allows the user to easily get back to my page once the icons are clicked.
 
 Features Left to Implement :
 
