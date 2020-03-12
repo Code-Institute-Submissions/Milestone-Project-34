@@ -1,4 +1,4 @@
-# TOYS -Milestone Project
+# TOYS -Milestone Project-1
 
 ![website-design.png](https://imagizer.imageshack.com/img923/6751/VqD32V.png)
 
@@ -159,7 +159,7 @@ The browsers I used for testing are as follows:
 
 The site looked perfect and responsive :
 
-[![website-design-1.png](https://imagehost.imageupload.net/2020/03/07/website-design-1.png)](https://www.imageupload.net/image/jZs15)
+![website-design-1.png](http://imageshack.com/a/img924/6569/5pzmHb.png)
 
 ## Credits
 
