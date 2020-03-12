@@ -1,6 +1,6 @@
 # TOYS -Milestone Project
 
-[![website-design.png](https://imagehost.imageupload.net/2020/03/07/website-design.png)](https://www.imageupload.net/image/jZnTt)
+![website-design.png](https://imagizer.imageshack.com/img923/6751/VqD32V.png)
 
 This project is designed as a three page  project that will demonstrate my ability with using HTML and CSS for my **Milestone One project for Code Institute**. The project uses core front end technologies along with the Bootstrap front-end framework for added responsivness and for improved cross browser compatability. The site also takes advantage of Google Fonts to allow for more of a modern feeling typgrophy set.
 
@@ -20,7 +20,7 @@ This project is designed as a three page  project that will demonstrate my abili
 ## Demo
 A live demo of the site can be found hosted on Github pages by following this link:
 
- https://sree0831.github.io/Milestone-Project-1/
+ https://sree0831.github.io/Project1-/.
 
 ## Project Description
 This project is a three page HTML project where we can learn about little history of  three popular toys --**HelloKitty**, **Lego**, **Barbie**. The main page **Index page** welcome's you with colourful navigation , animated image , history of toys and a footer.
@@ -48,6 +48,7 @@ To complete this project I have used a variety of front end technologies.
 ## Libraries
 * [Code Institute](https:codeinstitute.net/)
 * [w3schools](https://www.w3schools.com/)
+* [Bootstarp](https://getbootstrap.com/)
 * I took reference from these libraries !
 
 
@@ -134,11 +135,11 @@ Throughout the process of developing this site I regularly checked my code using
 
 The results of the HTML validation can be seen in the below image:
 
-[![project-validation.png](https://imagehost.imageupload.net/2020/03/07/project-validation.png)](https://www.imageupload.net/image/jZ4ug)
+![project-validation.png](https://imagizer.imageshack.com/img921/4860/zmcWDP.png)
 
 The results of the CSS validation can be seen in the below image:
 
-[![css-validation.png](https://imagehost.imageupload.net/2020/03/07/css-validation.png)](https://www.imageupload.net/image/jZPRs)
+![css-validation.png](https://imagizer.imageshack.com/img923/8113/hEYNyZ.png)
 
 For responsivness I checked a website called am I responvie. I also checked how the site looked on a variety of devices and browsers. The devices that I checked the site on were:
 
