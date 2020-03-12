@@ -95,7 +95,7 @@ a.active,a:hover{
   }
   a:hover,a.active{
     background: none;
-    color: #c51298;
+    color: black;
   }
   #check:checked ~ ul{
     left: 0;
@@ -117,7 +117,7 @@ a.active,a:hover{
   text-align: center;
 }
 h1 {
-color: #3e78b2;
+color: black;
 }
 p {
     text-align: left;
@@ -207,7 +207,7 @@ footer{
   
 }
 .social-media a:hover{
-  color: #fc5c65;
+  color: black;
 }
 
 .right-col h1{
@@ -493,3 +493,4 @@ body{
 	}
 	.contact-form button:focus{
 		box-shadow:none;
+    }
