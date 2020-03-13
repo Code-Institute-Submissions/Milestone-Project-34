@@ -537,3 +537,9 @@ body{
 	.contact-form button:focus{
 		box-shadow:none;
     }
+    .avatar {
+  vertical-align: middle;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
