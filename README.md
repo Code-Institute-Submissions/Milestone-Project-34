@@ -60,7 +60,7 @@ This project has a few interesting features that I feel need special mention.
 * Responsive product cards: The product cards in  shop page  are designed to draw attention of users with eye catching backgrounds and animation when they move cursor on product cards.
 * Contact Form : The form takes users input  and can take users  message .
 * Footer :  Users can enter E mail for news letters and has social links.
-* Social Links: The social media icons when clicked they open up in a new browser window while keeping my page open. This allows the user to easily get back to my page once the icons are clicked.
+* Social Links: The well designed social media icons hovers and when clicked they open up in a new browser window while keeping present page open. This allows the user to easily get back to my page once the icons are clicked.
 
 Features Left to Implement :
 
@@ -82,7 +82,7 @@ The main scope of this project was to demonstrate what I have learned thus far i
 ## UI / UX
 The layout and content of the site has been carefully curated to logically tell the user the story of **Toys that made us**.The main page contains an eye catching image ,navigation bar that introduces history of toys to the user and is designed to grab attention.
 The shop page drags the users attention with eye catching product cards and image animation ,where users can see prices and choose their favorite toys and buy them .
-Finally the contact page the users can get in touch with the site owner with their name , E-mail, and can leave their comments and feedback.
+Finally the contact page the users can get in touch with the site owner with their name , E-mail, and can leave their comments and feedback and also welcomes user with animated avatars.
 Users can select which social media they have to use and follow the website and can get updates from Newsletters.
 
 ## Deployment
