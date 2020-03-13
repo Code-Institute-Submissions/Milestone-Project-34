@@ -48,6 +48,7 @@ nav ul li a{
 }
 a.active,a:hover{
   transition: .5s;
+  color: black;
 }
 .checkbtn{
   font-size: 30px;
@@ -208,6 +209,7 @@ footer{
 }
 .social-media a:hover{
   color: black;
+
 }
 
 .right-col h1{
