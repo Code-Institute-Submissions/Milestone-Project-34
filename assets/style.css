@@ -281,7 +281,8 @@ footer{
   }
   .right-col{
     width: 100%;
-    margin-bottom: 60px;
+    margin-bottom: 20px;
+    text-align: center;
     
   }
 
@@ -291,6 +292,9 @@ footer{
   }
   .social-media{
       margin: 10px 0;
+  }
+  .rights-text{
+      text-align: center;
   }
 }
 
