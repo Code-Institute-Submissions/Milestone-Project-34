@@ -274,7 +274,7 @@ footer{
   justify-content: center;
 }
 /*social links styling*/
-.fa {
+footer .fa {
   padding: 10px;
   font-size: 15px;
   width: 50px;
