@@ -73,6 +73,10 @@ a.active,a:hover{
   }
 }
 @media (max-width: 858px){
+ img:hover {
+  transform: scaleX(-1);
+} 
+  
   .checkbtn{
     display: block;
   }
