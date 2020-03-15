@@ -2,7 +2,7 @@
 
 ![website-design.png](https://imagizer.imageshack.com/img923/6751/VqD32V.png)
 
-This project is designed as a three page  project that will demonstrate my ability with using HTML and CSS for my **Milestone One project for Code Institute**. The project uses core front end technologies along with the Bootstrap front-end framework for added responsivness and for improved cross browser compatability. The site also takes advantage of Google Fonts to allow for more of a modern feeling typgrophy set.
+This project is designed to create a website that has three pages that will demonstrate my ability with using HTML and CSS for my **Milestone One project for Code Institute**. The project uses core front end technologies along with the Bootstrap front-end framework for added responsivness and for improved cross browser compatability. The site also takes advantage of Google Fonts to allow for more of a modern feeling typography set.
 
 ## Table of contents
 * [Demo](#demo)
@@ -25,7 +25,7 @@ A live demo of the site can be found hosted on Github pages by following this li
 ## Project Description
 This project is a three page HTML project where we can learn about little history of  three popular toys --**HelloKitty**, **Lego**, **Barbie**. The main page **Index page** welcome's you with colourful navigation , animated image , history of toys and a footer.
 The second page **shop page** has products where you can choose ,add to shopping cart and buy them which is Responsive and animated .
-The third page **contact page**  users can contact through their Name,E-mail,Phonenumber and also can leave their feedback !
+The third page **contact page**  users can contact through their Name,e-mail,Phonenumber and also can leave their feedback !
 
 * Responsive Navigation Bar: this provides navigation around the site.
 * About Section: this is expected to grab the users attention with history of TOYS.
@@ -59,7 +59,7 @@ This project has a few interesting features that I feel need special mention.
 * Images:  The  images on all pages changes it's position when user move cursor.
 * Responsive product cards: The product cards in  shop page  are designed to draw attention of users with eye catching backgrounds and animation when they move cursor on product cards.
 * Contact Form : The form takes users input  and can take users  message .
-* Footer :  Users can enter E mail for news letters and has social links.
+* Footer :  Users can enter e-mail for news letters and has social links.
 * Social Links: The well designed social media icons hovers and when clicked they open up in a new browser window while keeping present page open. This allows the user to easily get back to my page once the icons are clicked.
 
 Features Left to Implement :
@@ -82,7 +82,7 @@ The main scope of this project was to demonstrate what I have learned thus far i
 ## UI / UX
 The layout and content of the site has been carefully curated to logically tell the user the story of **Toys that made us**.The main page contains an eye catching image ,navigation bar that introduces history of toys to the user and is designed to grab attention.
 The shop page drags the users attention with eye catching product cards and image animation ,where users can see prices and choose their favorite toys and buy them .
-Finally the contact page the users can get in touch with the site owner with their name , E-mail, and can leave their comments and feedback and also welcomes user with animated avatars.
+Finally the contact page the users can get in touch with the site owner with their name , e-mail, and can leave their comments and feedback and also welcomes user with animated avatars.
 Users can select which social media they have to use and follow the website and can get updates from Newsletters.
 
 ## Deployment
@@ -105,7 +105,7 @@ git add .
 # added
 git status
 
-# Do our first commit
+# Did my first commit
 git commit -m "Initial commit"
 
 # Add a remote
