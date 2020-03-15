@@ -12,6 +12,7 @@
 body{
   font-family: "Montserrat", sans-serif;
 }
+/*navigation bar*/
 nav{
   background: #f76809;
   height: 80px;
@@ -62,6 +63,7 @@ a.active,a:hover{
 #check{
   display: none;
 }
+/*media quieres*/
 @media (max-width: 952px){
   label.logo{
     font-size: 30px;
@@ -374,6 +376,7 @@ h1{
     color: #f0f0f0;
     text-align: center;
 }
+/*styling for products*/
 .product-grid{
 	padding-bottom: 20px;
 	padding-top: 20px;
