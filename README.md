@@ -155,7 +155,6 @@ The browsers I used for testing are as follows:
 * Google Chrome
 * Firefox Safari
 * Microsoft Edge
-* Microsoft Internet Explorer
 
 The site looked perfect and responsive :
 
