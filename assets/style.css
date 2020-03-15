@@ -557,3 +557,20 @@ body{
   height: 70px;
   border-radius: 50%;
 }
+@media screen and (max-width:960px) {
+.contact-form{
+  flex: 100%;
+  max-width: 80%;
+}
+.container contact{
+  flex: 100%;
+  max-width: 80%;
+}
+}
+
+@media screen and (max-width:600px) {
+.contact-form{
+  flex: 100%;
+  max-width: 100%;
+}
+}
