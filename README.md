@@ -146,8 +146,8 @@ For responsivness I checked a website called am I responvie. I also checked how 
 * 15 inch HP Laptop
 * 13 inch Macbook pro
 * 21 inch desktop PC
-* Samsung galaxy phone
-*Iphone 
+* Android phones
+*Iphones 
 The site looked great on all these devices and didn't seem to show any problems.
 
 The browsers I used for testing are as follows:
